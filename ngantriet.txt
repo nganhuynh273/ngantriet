@@ -1,2 +1,4 @@
 cau hoi phong van
 bo cau hoi van dap
+1.Ban ten gi?
+2.Ban bao nhieu tuoi?
